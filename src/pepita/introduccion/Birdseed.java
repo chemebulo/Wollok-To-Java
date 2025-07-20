@@ -3,6 +3,7 @@ package pepita.introduccion;
 public class Birdseed {
 	
 	public int getEnergyThatProvides() {
-		return 10;
+		// Returns the energy that provides the birdseed.
+		return 20;
 	}
 }
